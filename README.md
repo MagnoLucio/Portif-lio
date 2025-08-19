@@ -1,4 +1,4 @@
-# Portifólio
+# Portfólio
 Meu portfólio de design e programação
 # Olá! 👋 Eu sou o Magno Martins
 
